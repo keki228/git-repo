@@ -7,7 +7,7 @@ namespace ConsoleApplication1
     class Teacher : Person
     {
         private List<Person> students;
-
+	//constructor
         public Teacher()
         { }
         public Teacher(List<Person> list)
